@@ -1,7 +1,7 @@
 ![Header](https://github.com/IvanVideo/IvanVideo/blob/main/assets/tenor.gif)
 
 # Всем привет! 👋
-# Я начинающий веб-разработчик 👾 <br>
+Я начинающий веб-разработчик 👾 <br>
 Мой стек: <br>
 <br>
 
